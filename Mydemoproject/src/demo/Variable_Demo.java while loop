@@ -1,0 +1,20 @@
+package demo;
+
+public class Variable_Demo {
+
+	public static void main(String[] args) 
+	{
+		
+		int x=101;
+		while (x<=100)
+		{
+			System.out.println(x);
+			x++;
+			
+		}	
+		  System.out.println("End of the while loop");
+		  
+
+	}
+
+}

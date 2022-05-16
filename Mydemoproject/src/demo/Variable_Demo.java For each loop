@@ -1,0 +1,36 @@
+package demo;
+
+import java.util.ArrayList;
+
+public class Variable_Demo {
+
+	public static void main(String[] args) 
+	{
+	  
+		ArrayList<String>citylist = new ArrayList<>();
+		citylist.add("Delhi");
+		citylist.add("Mumbai");
+		citylist.add("Hyderabad");
+		citylist.add("Chennai");
+		citylist.add("Bangalore");
+		
+		for (String city: citylist)
+		{
+			System.out.println(city);
+		}	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	 	
+		
+	}
+
+}

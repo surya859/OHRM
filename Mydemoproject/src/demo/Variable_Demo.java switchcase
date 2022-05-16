@@ -1,0 +1,43 @@
+package demo;
+
+public class Variable_Demo 
+{
+public static void main(String[] args)
+
+{
+
+	String course = "s";
+	switch (course.toLowerCase())
+	
+	{
+	 case "s":
+		  System.out.println("Selenium");
+		  break;
+	 case "q":
+		  System.out.println("QTP");
+		  break;
+	 case "l":
+		  System.out.println("LoadRunner");
+		  break;
+	 default:
+		  System.out.println("invalidcourse");
+		  break;
+	}
+			
+	
+             
+	
+	
+	
+	
+
+		
+	
+	
+	
+	
+	
+		
+	}
+
+}

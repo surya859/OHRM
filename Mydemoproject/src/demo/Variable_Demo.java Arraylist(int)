@@ -1,0 +1,39 @@
+package demo;
+
+import java.util.ArrayList;
+
+public class Variable_Demo 
+{
+public static void main(String[] args)
+
+{
+
+	ArrayList<Integer> markslist = new ArrayList<>();
+	markslist.add(50);
+	markslist.add(60);
+	markslist.add(70);
+	markslist.add(80);
+	markslist.add(90);
+	
+	System.out.println(markslist.size());
+	
+	System.out.println(markslist.get(0));
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+	
+	
+	
+	
+	
+		
+	}
+
+}

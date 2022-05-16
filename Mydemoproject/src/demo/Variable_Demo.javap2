@@ -1,0 +1,29 @@
+package demo;
+
+public class Variable_Demo 
+{
+public static void main(String[] args)
+{
+	
+	
+	String str1 = "ABCxy";
+	String str2 = "ABC";
+	
+	System.out.println(str2.compareTo(str1));
+	
+	
+	
+
+		
+	
+	
+	
+	
+	
+		
+		
+		
+
+	}
+
+}

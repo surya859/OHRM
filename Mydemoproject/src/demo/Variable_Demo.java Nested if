@@ -1,0 +1,38 @@
+package demo;
+
+public class Variable_Demo 
+{
+public static void main(String[] args)
+
+{
+
+	int a,b;
+	a=200;
+	b=200;
+	
+	
+	if (a==b)
+	{
+	  	System.out.println("Both are Same");
+	}else if (a>b)
+	          {
+	  	        System.out.println("a is big");
+	          } else
+	          {
+	        	System.out.println("b is big");  
+	          }  
+	               	
+	
+	
+	
+
+		
+	
+	
+	
+	
+	
+		
+	}
+
+}
